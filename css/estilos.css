@@ -1,0 +1,83 @@
+.navbar-brand {
+    font-family: 'Anton', sans-serif;
+}
+
+.right {
+    font-family: 'Anton', sans-serif;
+}
+
+.nav-item{
+    font-family: 'Anton', sans-serif;
+}
+
+.banner{
+    background-color: wheat;
+}
+
+.profile-banner {
+    background-color: white;
+}
+
+.services{
+    margin: 50px;
+}
+
+.photos {
+    margin: 100px;
+}
+
+.reviews {
+    margin: 50px;
+}
+
+.footer {
+    background-color: #1d3779;
+    color: white;
+}
+
+.display-1 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+}
+
+.display-6{
+    font-family: 'Anton', sans-serif;
+}
+
+.btn-primary {
+    font-family: 'Anton', sans-serif;
+}
+
+.img-fluid {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main {
+    background-color: white;
+}
+
+.btn-footer {
+    border-radius: 5px;
+    outline-style: none;
+    outline-color: #1d3779;
+    background: white;
+    width: 6em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: #1d3779;
+    font-weight: bold;
+}
+
+.btn-footer:hover{
+    border-radius: 5px;
+    background-color: wheat;
+    color: #1d3779;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Anton', sans-serif;
+}
+
